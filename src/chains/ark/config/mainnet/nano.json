@@ -1,0 +1,10 @@
+{
+    "useAnchor": true,
+    "anchor": {
+        "ip": "ip",
+        "port": 4001,
+        "ports": {
+            "@arkecosystem/core-api": 4003
+        }
+    }
+}
